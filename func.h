@@ -1,0 +1,1 @@
+Mat flippingMatcher (Ptr<Feature2D>, Mat, Mat,  float, int);
